@@ -1,0 +1,5 @@
+PDA
+
+Usage: java PDA [Binary-String] [1 = Show Stack Content]
+
+The PDA accepts words from the Language L = { 0^n 1^n } U { 1^n 0^n }
